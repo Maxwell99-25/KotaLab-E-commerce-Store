@@ -14,3 +14,12 @@ Features:
 ,totals and delete options.
 ● Data persistence using localstorage.
 ● fully responsive layout (flexbox and grid)
+
+what I learned:
+●DOM Manipulation and event handling.
+● Arrays and objects and data flow.
+● Linking HTML to JS using  data-id.
+● saving and loading data with localstorage.
+● Building responsive layout.
+
+
